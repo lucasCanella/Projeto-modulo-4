@@ -1,5 +1,5 @@
 # <center> Resilia [Data Analytics]: Projeto M4 - Squad 6</center>
-
+<div>
 ### OBJETIVO:
 
 O projeto tem como objetivo a realização de uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol para a Agência Nacional de Petróleo e Gás Natural e  Biocombustíveis (ANP). Para a realização do feito, foram utilizados os arquivos dos dois últimos meses do ano atual contendo a série  histórica dos preços da gasolina e do etanol em todo o Brasil, retirados no  portal dados.gov.  
@@ -43,6 +43,7 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 
 ● O notebook utilizado na análise organizado, com descrições do passo a passo  da análise em markdown, apresentação dos resultados e insights gerados.
 
+</div>
 
 
 ### NOSSA EQUIPE
