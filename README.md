@@ -65,58 +65,30 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
 
-### Laura Camargo
-<img src="https://user-images.githubusercontent.com/40433498/174672152-baff9ec5-412e-4c5b-b602-8719386de5e9.jpg" width="100" height="100" />
+### Carlos Henrique Augustin
+<img src="" width="100" height="100" />
 <p align="left">
   
   
 <p align="left"> 
-  No projeto atuou como <strong>Gestora de gente e engajamento</strong>.<br>
+  No projeto atuou como <strong>Gestor de gente e engajamento</strong>.<br>
  Responsável por garantir que todos estão trabalhando bem e estão cumprindo suas funções</p>
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
-
   
  <p align="left">
   <a href="#" alt="Linkedin">
-  <a href="https://www.linkedin.com/in/laura-camargo-a386961ba/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
-
-  <a href="#" alt="Github">
-     <a href="https://github.com/LauraCamargo-tech" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
-</p>  
-  
-    
-
-
-### Allyson Santana
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEgnJi42xr0pA/profile-displayphoto-shrink_800_800/0/1655518469383?e=1664409600&v=beta&t=lkJ3-GWNHA1ZcIKQHOXMGo0cP5wE9Vu7_0SJ0eyE3mM" width="100" height="100" />
-<p align="left">
-  
-  
-<p align="left"> 
-  No projeto atuou como <strong> Colaborador </strong>.<br>
-  Responsável por garantir o cumprimento de funções e ações.
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-
-  <a href="#" alt="Linkedin">
-  <a href="https://www.linkedin.com/in/allyson-santana-08241a242/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+  <a href="https://www.linkedin.com/in/carlos-augustin/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
 
   <a href="#" alt="Github">
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
   
+    
 
 
-
-### Camilla Sampaio
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFaM_DyhIX48g/profile-displayphoto-shrink_800_800/0/1653863337540?e=1664409600&v=beta&t=IuYCNK8ioKf7Vp7H8xDxilW-x2cPgnr8ZCgPzPd2u08" width="100" height="100" />
+### Stephanie Fernandes da Silva
+<img src="https://avatars.githubusercontent.com/u/77132612?v=4" width="100" height="100" />
 <p align="left">
   
   
@@ -125,14 +97,34 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
   Responsável por garantir o cumprimento de funções e ações.
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
 <p align="left">
 
   <a href="#" alt="Linkedin">
-  <a href="https://www.linkedin.com/in/camilla-sampaio-0b8ab3218/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+  <a href="https://www.linkedin.com/in/stephaniefernandes23/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+
+  <a href="#" alt="Github">
+     <a href="https://github.com/stefernandes23" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
+</p>  
+  
+
+
+
+### Bruno Guedes da Silva
+<img src="https://avatars.githubusercontent.com/u/71763403?v=4" width="100" height="100" />
+<p align="left">
+  
+  
+<p align="left"> 
+  No projeto atuou como <strong> Colaborador </strong>.<br>
+  Responsável por garantir o cumprimento de funções e ações.
+</p>
+
+
+<p align="left">
+
+  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/brunoguedesdsilva/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
 
   <a href="#" alt="Github">
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
