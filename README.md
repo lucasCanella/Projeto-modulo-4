@@ -49,20 +49,19 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 
 ### Allyson Santana
 <img src="https://avatars.githubusercontent.com/u/101467403?v=4" width="100" height="100" />
-<p align="left">
+<p align="center">
   
   
-<p align="left"> 
+<p align="center"> 
    No projeto atuou como <strong> Co-Facilitador </strong>.<br>
-   Responsável por facilitar as reuniões e irecionar o tempo para cadas sprint.
+   Responsável por facilitar as reuniões e direcionar o tempo para cadas sprint.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/allysantana/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="/> 
 
-  <a href="https://github.com/ally-sr/" alt="Github">
-     <a href="" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
+     <a href="https://github.com/ally-sr/" alt="Github" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
 
 ### Laura Camargo
