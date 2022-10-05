@@ -15,7 +15,6 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 2. Qual o preço médio da gasolina e do etanol nesses dois meses? 
 
 3. Quais os 5 estados com o preço médio da gasolina e do etanol mais caros? 
-
 4. Qual o preço médio da gasolina e do etanol por estado? 
 
 5. Qual o município que possui o menor preço para a gasolina e para o etanol? 
