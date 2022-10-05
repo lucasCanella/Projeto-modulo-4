@@ -49,15 +49,15 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 
 ### Allyson Santana
 <img src="https://avatars.githubusercontent.com/u/101467403?v=4" width="100" height="100" />
-<p align="center">
+<p align="left">
   
   
-<p align="center"> 
+<p align="left"> 
    No projeto atuou como <strong> Co-Facilitador </strong>.<br>
    Responsável por facilitar as reuniões e direcionar o tempo para cadas sprint.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/allysantana/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="/> 
 
