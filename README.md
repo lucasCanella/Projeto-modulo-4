@@ -28,6 +28,9 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 9. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido? 10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele? 
 
 
+### DAS FERRAMENTAS UTILIZADAS:
+
+
 
 ### DAS CONDIÇÕES: 
 
@@ -40,9 +43,6 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 
 ● O notebook utilizado na análise organizado, com descrições do passo a passo  da análise em markdown, apresentação dos resultados e insights gerados.
 
-
-
-### DAS FERRAMENTAS UTILIZADAS:
 
 
 ### NOSSA EQUIPE
@@ -129,4 +129,27 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
   <a href="#" alt="Github">
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
+    
+    
+### Lucas Canella
+<img src="https://avatars.githubusercontent.com/u/106833044?v=4" width="100" height="100" />
+<p align="left">
+  
+  
+<p align="left"> 
+  No projeto atuou como <strong> Gestor(a) do Conhecimento </strong>.<br>
+ 
+  Responsável por 
+</p>
+
+
+<p align="left">
+
+  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lucascanella-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+
+  <a href="#" alt="Github">
+     <a href="https://github.com/lucasCanella" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
+</p>  
+  
   
