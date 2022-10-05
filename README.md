@@ -61,7 +61,6 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
   <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/allysantana/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="/> 
 
-    <a href="#" alt="Github">
   <a href="https://github.com/ally-sr/" alt="Github">
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
