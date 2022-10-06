@@ -67,7 +67,7 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 </p>  
 
 ### Carlos Henrique Augustin
-<img src="" width="100" height="100" />
+<img src="https://avatars.githubusercontent.com/u/106884962?v=4" width="100" height="100" />
 <p align="left">
   
   
