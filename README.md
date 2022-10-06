@@ -30,7 +30,7 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 
 ### DAS FERRAMENTAS UTILIZADAS:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width="50" height="50" /> 
-<img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="50" height="50" />
+<img src="https://w7.pngwing.com/pngs/266/560/png-transparent-python-computer-icons-programmer-javascript-programming-language-python-logo-angle-text-logo.png" width="50" height="50" />
 <img src="https://seeklogo.com/images/N/notion-app-logo-009B1538E8-seeklogo.com.png" width="50" height="50" />
 
 
