@@ -31,7 +31,7 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 ### DAS FERRAMENTAS UTILIZADAS:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width="50" height="50" /> 
 <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="50" height="50" />
-<img src="https://user-images.githubusercontent.com/40433498/174687678-7ea56222-a00e-4886-a63d-d4214221f8ca.jpg" width="50" height="50" />
+<img src="https://seeklogo.com/images/N/notion-app-logo-009B1538E8-seeklogo.com.png" width="50" height="50" />
 
 
 ### DAS CONDIÇÕES: 
