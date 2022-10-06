@@ -140,7 +140,7 @@ Foi solicitado que a análise feita respondesse os seguintes questionamentos:
 <p align="left"> 
   No projeto atuou como <strong> Gestor(a) do Conhecimento </strong>.<br>
  
-  Responsável por 
+  Responsável por gerir o conhecimento, ferramentas e materiais produzidos pela equipe.
 </p>
 
 
